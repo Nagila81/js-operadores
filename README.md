@@ -1,1 +1,1 @@
-# js-operadores
+# js-operadore
